@@ -1,0 +1,6 @@
+Cuando surja un problema y mi objetivo sea solucionarlo habrá una serie de pasos que utilizaré como 
+herramienta para encontrar una solución de manera más eficiente y correcta. Lo primero de todo será 
+leer detenidamente y en un papel graficar el problema, y antes de desarrollar la solución final, lo 
+solucionaré en papel. Después dividiré el problema para hacerlo parte por parte, y finalmente diseñare 
+todo y lo uniré, finalmente probare la eficacia de la solución y como un paso obligatorio la prueba y
+ corrección de la solución planteada 
