@@ -1,1 +1,1 @@
-# Resolucion de problemas
+# Actividades INFORMATICA II
