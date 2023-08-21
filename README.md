@@ -1,1 +1,1 @@
-# Resolucion-de-problemas
+# Resolucion de problemas
